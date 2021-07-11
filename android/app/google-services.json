@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "366787197478",
+    "project_id": "warzone-771d9",
+    "storage_bucket": "warzone-771d9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:366787197478:android:564afe6e79221891ef04e7",
+        "android_client_info": {
+          "package_name": "com.example.warzone_companion"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "366787197478-71dt100k3dghhvlcv9tsft3ibbsvn171.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD27kTmOyHoZG5KgXgbYxERFnQme6ZJm20"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "366787197478-71dt100k3dghhvlcv9tsft3ibbsvn171.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
